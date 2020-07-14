@@ -1,4 +1,4 @@
-Engeto úkoly
+-Engeto úkoly-
 
 Analyzátor textu
 
